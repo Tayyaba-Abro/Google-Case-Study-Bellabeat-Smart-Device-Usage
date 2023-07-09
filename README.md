@@ -21,6 +21,6 @@ The project revolves around the marketing analyst team at Bellabeat, a high-tech
 - **Spring**: This is a water bottle that tracks daily water intake using smart technology to ensure that you are appropriately hydrated throughout the day. The Spring bottle connects to the Bellabeat app to track your hydration levels.
 - **Bellabeat Membership**: Bellabeat also offers a subscription-based membership program for users. Membership gives users 24/7 access to fully personalized guidance on nutrition, activity, sleep, health and beauty, and mindfulness based on their lifestyle and goals.
 
-In this case study, we will focus on **TIME Smart Devices**, how users utilize time smart device. 
+In this case study, we will focus on **TIME Product**, that represents how user utilizes time smart device. 
 
 
