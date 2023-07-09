@@ -7,4 +7,6 @@
 ### Data Source: [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
 ### SQL Codes: [Bellabeat Case Study Complete Code]()
 ### Tableau Dashboard: [Bellabeat Smart Device Usage](             )
-Introduction
+
+# Introduction
+
