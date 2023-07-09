@@ -1,6 +1,6 @@
 # Google Case Study 2: Bellabeat Smart Device Usage
 
-![Bella Beat Cover](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/946c6007-9336-465f-a545-4f44bc7d5756)
+![Presentation updated](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/011443df-84a9-4c60-8908-74ff641d61f6)
 
 ## Quick Links:
 
@@ -21,7 +21,7 @@ The project revolves around the marketing analyst team at Bellabeat, a high-tech
 - **Spring**: This is a water bottle that tracks daily water intake using smart technology to ensure that you are appropriately hydrated throughout the day. The Spring bottle connects to the Bellabeat app to track your hydration levels.
 - **Bellabeat Membership**: Bellabeat also offers a subscription-based membership program for users. Membership gives users 24/7 access to fully personalized guidance on nutrition, activity, sleep, health and beauty, and mindfulness based on their lifestyle and goals.
 
-In this case study, we will focus on **TIME Product**, that represents how user utilizes time smart device. 
+In this case study, we will focus on **TIME Product**, that represents how user utilizes time smart device for their activity and sleep. 
 
 ## Tools used in Analysis
 - Data Cleaning: Microsoft Excel 
@@ -29,17 +29,17 @@ In this case study, we will focus on **TIME Product**, that represents how user 
 - Visualization: Tableau Public
 
 ## Data Analysis Process
-In order to adequately analyze these data to answer the key business questions and make recommendations, I will follow the key steps of Data Analysis Process: Ask, Prepare, Process, Analyze, Share and Act.
+In order to adequately analyze bellabeat data and to answer the key business questions and make recommendations, following key steps of Data Analysis Process will be followed: Ask, Prepare, Process, Analyze, Share and Act .
 
 ### Ask Phase:
-To address the business task of understanding how user utilizes the time smart device, the following key findings will guide the analysis:
+To address the business task of analyzing that how user utilizes the time smart device, the following key findings will guide the analysis:
 
 - Proportion of Calories per Distance by Day
 - Average Steps per Hour
 - Total Steps & Total Distance by ID
 - Maximum Sleep Duration (in hours) by Day
-- Correlation of Very Active & Sedentary Minutes with Steps
-- Correlation of Sleep with Very Active, Little Active, Fairly & Sedentary Minutes
+- Correlation of Steps with Active Minutes
+- Correlation of Sleep with Active Minutes by Day
 
 ### Prepare Phase:
 
@@ -84,14 +84,25 @@ Result: ![steps vs distances](https://github.com/Tayyaba-Abro/Google-Case-Study-
 SQL Query: [Bellabeat Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
 Result: ![sleep per weekday](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/dc270fe6-30bb-44b0-969e-efe597e5e572)
 
-#### 5. Correlation of Very Active & Sedentary Minutes with Steps
+#### 5. Correlation of Steps with Active Minutes
 
 SQL Query: [Bellabeat Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
-Result: 
+Result: ![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/9f80779b-0257-40b7-8106-4b6e68913f9e)
 
-#### 6. Correlation of Sleep with Very Active, Little Active, Fairly & Sedentary Minutes
+
+#### 6. Correlation of Sleep with Active Minutes by Day
 
 SQL Query: [Bellabeat Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
+Result: ![sleep active minutes per day](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/aa1754d0-375b-43f3-9e4d-a55a020436f2)
+
+### Analyze Phase: 
+
+After processing with the valuable insights, now we will delve deep into the explanatory visualizations that will showcase users healthy daily activities and will correlate few key parameters on [Tableau Public](   ). The appealing visualizations are provided below:
+
+#### 1. Proportion of Calories per Distance by Day:
+This analyses represents the calories burned per distance by week day. It is observed that proportion of calories per distance is relatively high on Sunday than other days.
+![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/bf240118-7f10-4fca-84f8-64b7056cb1e0)
+
 
 
 
