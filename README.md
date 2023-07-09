@@ -54,7 +54,9 @@ The data for this analysis is a public dataset available on [Kaggle](FitBit Fitn
 The following considerations were observations and updated to clean data effectively:
 - **Remove Unwanted Tables:** As 'daily_steps', 'daily_calories' and 'daily_intensities' table were also part of daily_activity file, also it was validated using MATCH function. Therefore, unwanted files that will not be part of anlysis were removed.
 - **Rename File:** Proper naming to files were assgined to maintain integrity.
+
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/a4193f0b-b448-4d95-b561-55f95a2f492f)
+
 - **Check Data Type:** Data type of each column, such as, TotalSteps, TotalDistance, VeryActiveMinutes, LittleActiveMinutes, FairlyActiveMinutes and SedentaryMinutes were changed to number.
 - **Check duplicates:** Duplicate values were identified from two files and removed using 'Remove Duplicates'.
 - **Check for Blanks:** The data set was checked for incomplete or blank values across all columns.
@@ -66,34 +68,40 @@ During this phase, the key findings related to how users utilize bellabeat smart
 
 #### 1. Proportion of Calories per Distance by Day:
 
-SQL Query: [Bellabeat Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
-Result: ![calories distance per weekday](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/c54d2447-73e9-4ab8-ad7f-667a868a3d33)
+SQL Query: [Data Analysis Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
+Result:
+![calories distance per weekday](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/c54d2447-73e9-4ab8-ad7f-667a868a3d33)
 
 #### 2. Average Steps per Hour 
 
-SQL Query: [Bellabeat Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
-Result: ![steps per hour](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/2b878c84-5c11-463e-8d03-84cf5d4aee65)
+SQL Query: [Data Analysis Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
+Result: 
+![steps per hour](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/2b878c84-5c11-463e-8d03-84cf5d4aee65)
 
 #### 3. Total Steps & Total Distance by ID
 
-SQL Query: [Bellabeat Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
-Result: ![steps vs distances](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/19745eca-1d8c-44e2-a074-e5e3dee794f4)
+SQL Query: [Data Analysis Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
+Result:
+![steps vs distances](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/19745eca-1d8c-44e2-a074-e5e3dee794f4)
 
 #### 4. Maximum Sleep Duration (in hours) by Day
 
-SQL Query: [Bellabeat Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
-Result: ![sleep per weekday](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/dc270fe6-30bb-44b0-969e-efe597e5e572)
+SQL Query: [Data Analysis Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
+Result: 
+![sleep per weekday](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/dc270fe6-30bb-44b0-969e-efe597e5e572)
 
 #### 5. Correlation of Steps with Active Minutes
 
-SQL Query: [Bellabeat Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
-Result: ![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/9f80779b-0257-40b7-8106-4b6e68913f9e)
+SQL Query: [Data Analysis Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
+Result: 
+![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/9f80779b-0257-40b7-8106-4b6e68913f9e)
 
 
 #### 6. Correlation of Sleep with Active Minutes by Day
 
-SQL Query: [Bellabeat Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
-Result: ![sleep active minutes per day](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/aa1754d0-375b-43f3-9e4d-a55a020436f2)
+SQL Query: [Data Analysis Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
+Result:
+![sleep active minutes per day](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/aa1754d0-375b-43f3-9e4d-a55a020436f2)
 
 ### Analyze Phase: 
 
@@ -101,7 +109,39 @@ After processing with the valuable insights, now we will delve deep into the exp
 
 #### 1. Proportion of Calories per Distance by Day:
 This analyses represents the calories burned per distance by week day. It is observed that proportion of calories per distance is relatively high on Sunday than other days.
-![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/bf240118-7f10-4fca-84f8-64b7056cb1e0)
+![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/65cef097-77fc-4355-89a7-4af0297ac26a)
+
+
+#### 2. Average Steps per Hour 
+This visualization identifies average steps taken per hour and it is analyzed that most average steps are taken during 6 p.m.
+
+![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/60435592-a0c6-472a-843e-e00f97df07d2)
+
+
+#### 3. Total Steps & Total Distance by ID
+
+This key finding portrays that how total steps are being varied with the total distance. The result shows that maximum stes and maximum distance covered by user ID '8877689391' with distance of '409.4' and steps of '497,241'.
+
+![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/9d93a9ca-36e6-4601-85aa-25c82ea75e1c)
+
+
+#### 4. Maximum Sleep Duration (in hours) by Day
+
+The sleep duaration was caterozied in days, and it is identified that maximum sleep duraton is found to be 13 'hours' on 'Monday'.
+
+![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/096f3164-dbb8-4464-b9bf-01cc842b3adc)
+
+
+#### 5. Correlation of Steps with Active Minutes (Very Active and Sendetary Minutes)
+
+According to research 
+
+
+
+
+
+
+Promoting awareness and encouraging a more active lifestyle can have positive impacts on overall well-being.
 
 
 
