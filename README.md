@@ -5,7 +5,7 @@
 ## Quick Links:
 
 ### Data Source: [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
-### SQL Codes: [Bellabeat Case Study Complete Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
+### SQL Code: [Bellabeat Case Study Complete Code](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/blob/main/Bellabeat%20Case%20Study%20-%20Complete%20Code.sql)
 ### Tableau Dashboard: [Bellabeat Smart Device Usage](             )
 
 ## Introduction
@@ -55,7 +55,7 @@ The following considerations were observations and updated to clean data effecti
 - **Remove Unwanted Tables:** As 'daily_steps', 'daily_calories' and 'daily_intensities' table were also part of daily_activity file, also it was validated using MATCH function. Therefore, unwanted files that will not be part of anlysis were removed.
 - **Rename File:** Proper naming to files were assgined to maintain integrity.
 
-![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/a4193f0b-b448-4d95-b561-55f95a2f492f)
+![removed files](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/e7af6943-7c58-4f87-8077-65158be29b7d)
 
 - **Check Data Type:** Data type of each column, such as, TotalSteps, TotalDistance, VeryActiveMinutes, LittleActiveMinutes, FairlyActiveMinutes and SedentaryMinutes were changed to number.
 - **Check duplicates:** Duplicate values were identified from two files and removed using 'Remove Duplicates'.
