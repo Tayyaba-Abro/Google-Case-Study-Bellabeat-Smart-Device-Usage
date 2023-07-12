@@ -121,7 +121,8 @@ After processing with the valuable insights, now we will delve deep into the exp
 
 #### 1. Proportion of Calories per Distance by Day:
 This analyses represents the calories burned per distance by week day. It is observed that proportion of calories per distance is relatively high on Sunday than other days.
-![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/65cef097-77fc-4355-89a7-4af0297ac26a)
+
+![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/839c537a-a16a-49b2-812e-38a3f641e2de)
 
 
 #### 2. Average Steps per Hour 
@@ -141,18 +142,21 @@ This key finding portrays that how total steps are being varied with the total d
 
 The sleep duaration was caterozied in days, and it is identified that maximum sleep duraton is found to be 13 'hours' on 'Monday'.
 
-![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/096f3164-dbb8-4464-b9bf-01cc842b3adc)
+![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/6c6d1086-06ac-453f-aa41-4e225caaa11e)
+
 
 #### 5. Correlation of Steps with Active Minutes (Very Active and Sendetary Minutes)
 
 From the correlation of total steps, very active minutes, and sedentary minutes it is evident that as the total steps increase, the very active minutes also tend to increase, while the sedentary minutes decrease. This suggests that individuals who take more steps engage in more intense physical activity and spend less time in a sedentary state. These findings align with the recommendations of the Centers for Disease Control and Prevention (CDC), which suggests engaging in at least 30 minutes of moderate physical activity every day for optimal health. However, the data indicates that the majority of users in the dataset spend a considerable amount of time in a sedentary state, with relatively low levels of very active minutes.
 
+![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/9baf23d0-9046-4e9f-b858-a39d8c6a0d4e)
 
 
 #### 6. Correlation of Sleep with Each Active Minutes by day.
 
 This analysis highlights that users tend to spend a significant amount of time, approximately 13 hours on average, in sedentary behavior during the weekends. Furthermore, the data indicates that users allocate less time for sleep and have minimal engagement in activities during the weekend.
 
+![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/fe0c8aa9-ac2d-4caa-ac69-c644549c337d)
 
 
 
