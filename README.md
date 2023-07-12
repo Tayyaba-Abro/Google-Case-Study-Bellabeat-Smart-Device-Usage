@@ -152,15 +152,36 @@ From the correlation of total steps, very active minutes, and sedentary minutes 
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/9baf23d0-9046-4e9f-b858-a39d8c6a0d4e)
 
 
-#### 6. Correlation of Sleep with Each Active Minutes by day.
+#### 6. Correlation of Sleep with Each Active Minutes by day
 
 This analysis highlights that users tend to spend a significant amount of time, approximately 13 hours on average, in sedentary behavior during the weekends. Furthermore, the data indicates that users allocate less time for sleep and have minimal engagement in activities during the weekend.
 
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/fe0c8aa9-ac2d-4caa-ac69-c644549c337d)
 
 
+### Act Phase 
 
+#### Key Takeaways
 
+Based on the findings of this analysis, some key takeaways can be derived:
 
-Promoting awareness and encouraging a more active lifestyle can have positive impacts on overall well-being.
+- Users find Sunday as a day when actively prioritize their health and engage in physical activities. It further suggests that people may intentionally select one day of the weekend to focus on maintaining an active lifestyle, while allocating the other day for more sedentary pursuits.
+- The peak in average steps per hour at 5 to 6 PM, indicating that individuals are most active in evening.
+- Despite the positive correlation between steps and active minutes, the majority of users in the dataset still spend a significant amount of time in a sedentary state, highlighting the need to promote more physical activity and reduce sedentary behavior.
+-  The analysis of sleep and activity minutes over the week reveals that, on average, users spent approximately 6.98 hours sleeping, 13.31 hours in a sedentary state, 3.33 hours in light activity, 0.27 hours in fairly active moments, and 0.40 hours in highly active periods. This indicates that, on average, users are meeting the minimum sleep standard of 7 hours. However, despite achieving sufficient sleep, their active time remains relatively low, with a significant portion of the day spent in a sedentary state
+
+ 
+#### Recommenations: 
+Based on the key findings of the Bellabeat smart devices usage, here are some recommendations for the business:
+
+- **Personalized Activity Reminders:** Develop a feature within the Bellabeat smart devices that provides personalized activity reminders to users. These reminders can be based on their specific activity patterns and can encourage them to engage in more active behaviors throughout the day.
+
+- **Sleep Optimization Guidance:** Offer sleep optimization guidance through the Bellabeat smart devices. This could include providing recommendations on sleep duration and quality, as well as tips for improving sleep habits. The goal is to help users establish healthy sleep routines and maximize their sleep benefits.
+
+- **Active Time Tracking:** Enhance the activity tracking capabilities of the Bellabeat smart devices by providing users with detailed insights into their active time distribution throughout the day. This can help users understand their activity patterns and motivate them to increase their active minutes by incorporating not only steps but about cycling, yoga, walking etc. 
+
+- **Activity Challenges and Rewards:** Implement activity challenges and rewards within the Bellabeat app. This can create a sense of competition and motivation among users to achieve their activity goals. Rewards can include virtual badges, discounts on Bellabeat products, or access to exclusive content.
+
+By implementing these recommendations, Bellabeat can enhance the user experience, increase engagement with the smart devices, and further establish itself as a leading provider of health and wellness solutions.
+- Promoting awareness and encouraging a more active lifestyle can have positive impacts on overall well-being.
 
