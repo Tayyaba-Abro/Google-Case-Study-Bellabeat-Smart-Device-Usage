@@ -21,7 +21,7 @@ The project revolves around the marketing analyst team at Bellabeat, a high-tech
 - **Spring**: This is a water bottle that tracks daily water intake using smart technology to ensure that you are appropriately hydrated throughout the day. The Spring bottle connects to the Bellabeat app to track your hydration levels.
 - **Bellabeat Membership**: Bellabeat also offers a subscription-based membership program for users. Membership gives users 24/7 access to fully personalized guidance on nutrition, activity, sleep, health and beauty, and mindfulness based on their lifestyle and goals.
 
-In this case study, we will focus on **TIME Product**, that represents how user utilizes time smart device for their activity and sleep. 
+In this case study, we will focus on **TIME Product**, that represents how users utilize time smart device for their activity and sleep. 
 
 ## Tools used in Analysis
 - Data Cleaning: Microsoft Excel 
@@ -29,7 +29,7 @@ In this case study, we will focus on **TIME Product**, that represents how user 
 - Visualization: Tableau Public
 
 ## Data Analysis Process
-In order to adequately analyze bellabeat data and to answer the key business questions and make recommendations, key steps of Data Analysis Process will be followed: Ask, Prepare, Process, Analyze, Share and Act .
+In order to adequately analyze bellabeat data and to answer the key business questions and make recommendations, key steps of data analysis process will be followed: Ask, Prepare, Process, Analyze, Share and Act.
 
 ### Ask Phase:
 To address the business task of analyzing that how users utilize the time smart device, the following key findings will guide the analysis:
@@ -43,7 +43,7 @@ To address the business task of analyzing that how users utilize the time smart 
 
 ### Prepare Phase:
 
-The data for this analysis is sourced from a public dataset available on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit). It comprises 18 files containing detailed information about daily activity, sleep, weight, calories, and intensities. The dataset is structured in a combination of long and wide format, with each file containing specific information related to different aspects of smart device usage. It is important to note that the data is not from Bellabeat itself, there may be potential issues with bias or credibility.  Furthermore, it is worth mentioning that the dataset is not up to date, encompassing data only for the months of April and May in 2016. Therefore, the analysis may not fully reflect the most current trends in smart device usage. Additionally, it's important to acknowledge that the dataset lacks information about the Spring product and the Bellabeat app, thereby limiting the scope of the analysis to the Time smart device.
+The data for this analysis is sourced from a public dataset available on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit). It comprises of 18 files containing detailed information about daily activity, sleep, weight, calories, and intensities. The dataset is structured in a combination of long and wide format, with each file containing specific information related to different aspects of smart device usage. It is important to note that the data is not from Bellabeat itself, there may be potential issues with bias or credibility.  Furthermore, it is worth mentioning that the dataset is not up to date, encompassing data only for the months of April and May in 2016. Therefore, the analysis may not fully reflect the most current trends in smart device usage. Additionally, it's important to acknowledge that the dataset lacks information about the Spring product and the Bellabeat app, thereby limiting the scope of the analysis to the Time smart device.
 
 ![Capture](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/9bdef8a3-95a7-47d2-b064-cf43254f199f)
 
