@@ -183,3 +183,7 @@ Based on the key findings of the Bellabeat smart devices usage, here are some re
 By implementing these recommendations, Bellabeat can enhance the user experience, increase engagement with the smart devices, and further establish itself as a leading provider of health and wellness solutions.
 
 
+## Visualization 
+
+![dashboard](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/b5100d79-5d16-433f-97ee-fbd33caab532)
+
