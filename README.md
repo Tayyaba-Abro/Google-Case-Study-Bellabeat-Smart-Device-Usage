@@ -132,7 +132,6 @@ The visualization showcasing the average steps taken per hour reveals interestin
 
 
 #### 3. Total Steps & Total Distance by ID
-
 This key finding highlights the relationship between total steps and total distance covered by individual users. The analysis reveals that user ID '8877689391' recorded the highest number of steps, totaling 497,241, and covered a distance of 409.4 units. This indicates that this particular user has been highly active, taking a significant number of steps and covering a considerable distance.
 
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/9d93a9ca-36e6-4601-85aa-25c82ea75e1c)
@@ -140,13 +139,12 @@ This key finding highlights the relationship between total steps and total dista
 
 #### 4. Maximum Sleep Duration (in hours) by Day
 
-The sleep duaration was caterozied in days, and it is identified that maximum sleep duraton is found to be 13 'hours' on 'Monday'. This finding suggests that users tend to have longer sleep periods on Mondays compared to other days of the week.
+The sleep duaration was categorized in days, and it is identified that maximum sleep duraton is found to be 13 'hours' on 'Monday'. This finding suggests that users tend to have longer sleep periods on Mondays compared to other days of the week.
 
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/6c6d1086-06ac-453f-aa41-4e225caaa11e)
 
 
 #### 5. Correlation of Steps with Active Minutes (Very Active and Sendetary Minutes)
-
 
 The analysis reveals a clear correlation between total steps, very active minutes, and sedentary minutes. As the total steps increase, the very active minutes also tend to increase, while the sedentary minutes decrease. This suggests that individuals who take more steps engage in more intense physical activity and spend less time in a sedentary state. These findings align with the recommendations of the Centers for Disease Control and Prevention (CDC), which suggests engaging in at least 30 minutes of moderate physical activity every day for optimal health. However, the data indicates that the majority of users in the dataset spend a considerable amount of time in a sedentary state, with relatively low levels of very active minutes.
 
@@ -155,7 +153,7 @@ The analysis reveals a clear correlation between total steps, very active minute
 
 #### 6. Correlation of Sleep with Each Active Minutes by day
 
- The analysis of sleep and activity minutes over the week reveals that, on average, users spent approximately 6.98 hours sleeping, 13.31 hours in a sedentary state, 3.33 hours in light activity, 0.27 hours in fairly active moments, and 0.40 hours in highly active periods.This highlights that users tend to spend a significant amount of time in sedentary behavior during the weekdays. Additionally, the data indicates that users allocates minimum time for sleep and have minimal engagement in activities.
+The analysis of sleep and activity minutes over the week reveals that, on average, users spent approximately 6.98 hours sleeping, 13.31 hours in a sedentary state, 3.33 hours in light activity, 0.27 hours in fairly active moments, and 0.40 hours in very active periods.This highlights that users tend to spend a significant amount of time in sedentary behavior during the weekdays. Additionally, the data indicates that users allocates minimum time for sleep and have minimal engagement in activities.
 
 ![image](https://github.com/Tayyaba-Abro/Google-Case-Study---Bellabeat-Smart-Device-Usage/assets/47588244/fe0c8aa9-ac2d-4caa-ac69-c644549c337d)
 
